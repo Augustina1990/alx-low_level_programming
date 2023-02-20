@@ -1,8 +1,12 @@
- #include <stdlib.h>
+#include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 
-/* betty style doc for function main goes there */
+/**
+ * main - assigns a random number to variable in each time
+ * it executes an prints it
+ * Return: Always 0 (success)
+ */
 int main(void)
 {
 	int n;
