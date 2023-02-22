@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * main: This prints "_putchar" followed by a new line
+ * main - This prints "_putchar" followed by a new line
  * Return: Always 0 (Success)
  */
 
@@ -16,8 +16,7 @@ int main(void)
 	{
 		putchar(a[i]);
 	}
-
-        putchar('\n');
+	putchar('\n');
 
 
 	return (0);
