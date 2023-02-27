@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - generates keygen.
- * Return: 0 Always.
+ * main - generates a random password for 101-crackme.
+ * Return: 0 Always (success)
  */
 int main(void)
 {
